@@ -1,0 +1,1 @@
+include ':04_list_view', ':menudemo', ':06_activitylifecycle', ':07_activitytransferdemo', ':08_appdesigndemo'
